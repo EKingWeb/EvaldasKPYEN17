@@ -135,7 +135,6 @@ print("My program prints hello{}".format(a))
 print("My program prints hello {} in line {}" .format( a, 135))
 print(f"Hello {a}!")
 
-
 #=============Getting user input===================
 print("What's your name?")
 user_name = input()
